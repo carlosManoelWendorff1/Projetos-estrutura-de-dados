@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Modelo
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Modelo\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=auto
+comment1.target=void\ addAutomovel(automovel)
+comment10.params=descricao
+comment10.target=void\ setDescricao(java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ getListaDeAutomoveis()
+comment3.params=
+comment3.target=Marca\ getMarca()
+comment4.params=marca
+comment4.target=void\ setMarca(Marca)
+comment5.params=
+comment5.target=int\ getId()
+comment6.params=id
+comment6.target=void\ setId(int)
+comment7.params=
+comment7.target=int\ getPotencia()
+comment8.params=potencia
+comment8.target=void\ setPotencia(int)
+comment9.params=
+comment9.target=java.lang.String\ getdescricao()
+numComments=11

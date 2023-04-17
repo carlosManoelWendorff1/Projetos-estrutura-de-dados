@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=contato
+comment1.target=void\ setContato(contato)
+comment2.params=
+comment2.target=java.util.List\ getContatos()
+numComments=3
