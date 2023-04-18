@@ -1,6 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
         conjuntoEspalhamento conj = new conjuntoEspalhamento();
         conj.adiciona("palavra");
         conj.adiciona("Computador");
@@ -11,6 +10,13 @@ public class App {
         if(!conj.contem("Apostila")){
             System.out.println("erro: tabela não possuí apostila");
         }
+        System.out.println(conj.pegaTodas());
+        System.out.println(conj.tamanho());
+
+        conj.remove("mesa");
+
+        System.out.println(conj.pegaTodas());
+        System.out.println(conj.tamanho());
 
     }
 }
